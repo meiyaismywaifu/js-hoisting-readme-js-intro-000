@@ -18,6 +18,7 @@ function crazy() {
   }
 }
 
+// get the function to print out "Kristin" to the console.
 function sayMyName() {
   var name = "Cricky";
 
