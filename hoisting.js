@@ -24,7 +24,7 @@ function sayMyName() {
 
   sayMy();
 
-  function sayMy() {
+  function sayMy() { // why wouldn't i just move all declarations to the top?
     var name = "Kristin";
     console.log(name);
   }
