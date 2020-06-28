@@ -9,6 +9,7 @@ function callMe() {
 
 }
 
+// fix the function thisIsCrazy to console.log the string "hey!!!".
 function crazy() {
   thisIsCrazy();
 
